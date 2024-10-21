@@ -29,6 +29,8 @@ I’m a passionate Computer Science student with a love for programming and prob
 ## 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toukir103)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toukir103@gmail.com)
+## 📺 Check Out My YouTube Channel:
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@toukirahmed3475)
 
 ## 📝 Fun Fact:
 I’m preparing for ICPC Dhaka, and coding marathons are my favorite!
